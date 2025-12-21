@@ -1,6 +1,5 @@
 
 ```
-© Credits
 Modified Baileys @daffadevv
 ```
 
