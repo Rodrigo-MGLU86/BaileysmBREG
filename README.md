@@ -1,7 +1,7 @@
 
 ```
 © Credits
-Modified Baileys t.me/@daffadevv
+Modified Baileys @daffadevv
 ```
 
 # WhatsApp Baileys
