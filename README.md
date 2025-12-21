@@ -2,7 +2,6 @@
 ```
 © Credits
 Modified Baileys @daffadevv
-Source Bailyes @yumevtc 
 ```
 
 # WhatsApp Baileys
